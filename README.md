@@ -16,4 +16,5 @@
   <img aling = "center" alt = "VitoCSS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img aling = "center" alt = "VitoJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img aling = "center" alt = "VitoJAVA" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+  <img aling = "center" alt = "VitoJAVA" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
