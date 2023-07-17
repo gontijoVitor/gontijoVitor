@@ -12,9 +12,9 @@
   <li>Abaixo tem alguma das linguagens que eu estudo, sendo a da esquerda a que tenho maior conhecimento e a da direita que tenho menor conhecimento</li>
 </ul><br>
 <div>
-  <img aling = "center" alt = "VitoHTML" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img aling = "center" alt = "VitoCSS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-  <img aling = "center" alt = "VitoJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img aling = "center" alt = "VitoREACT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img aling = "center" alt = "VitoJAVA" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+  <img class="html" aling = "center" alt = "VitoHTML" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img class="css" aling = "center" alt = "VitoCSS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img class="javascript" aling = "center" alt = "VitoJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img class="react" aling = "center" alt = "VitoREACT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img class="java" aling = "center" alt = "VitoJAVA" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
 </div>
