@@ -7,13 +7,17 @@
 <ul>
   <li>Estou cursando o curso de informática para Internet no CEFET-MG em Divinópolis</li>
   <li>Email:<a href = "mailto:vitorgontijo2017@gmail.com"> <b><i>vitorgontijo2017@gmail.com</i></b></a></li>
-  <li>Estou em busca de aprender mais e no futuro trabalhar com front-end</li>
-  <li>Gosto muito de jogar no meu tempo livre</li>
-  <li>Abaixo tem alguma das linguagens que eu estudo, sendo a da esquerda a que tenho maior conhecimento e a da direita que tenho menor conhecimento</li>
+  <li>Estou em busca de aprender mais e no futuro trabalhar como desenvolvedor front-end</li>
 </ul><br>
+
+<div>
+<img height = "300px" align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gontijoVitor&layout=donut&theme=dracula"/>
+</div>
+
 <div>
   <img class="html" aling = "center" alt = "VitoHTML" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img class="css" aling = "center" alt = "VitoCSS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img class="javascript" aling = "center" alt = "VitoJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img class="react" aling = "center" alt = "VitoREACT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
+
