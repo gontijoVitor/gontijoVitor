@@ -12,8 +12,8 @@
 </ul><br>
 
 <div>
-  <img height = "250px" align = "middle" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gontijoVitor&layout=donut&theme=dark"/>
-  <img height = "250px" align = "middle" src = "https://github-readme-stats.vercel.app/api?username=gontijoVitor&show_icons=true&theme=dark"/>
+  <img height = "200px" align = "middle" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gontijoVitor&layout=donut&theme=dark"/>
+  <img height = "200px" align = "middle" src = "https://github-readme-stats.vercel.app/api?username=gontijoVitor&show_icons=true&theme=dark"/>
 </div><br><br>
 
 <div class = "icons">
