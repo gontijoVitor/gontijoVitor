@@ -6,9 +6,8 @@
 
 <h2>Abaixo tem mais algumas informações adicionais</h2>
 <ul>
-  <li>Estou cursando o curso de informática para Internet no CEFET-MG em Divinópolis</li>
+  <li>Atualmente estou cursando o curso de informática para Internet no CEFET-MG em Divinópolis</li>
   <li>Email:<a href = "mailto:vitorgontijo2017@gmail.com"> <b><i>vitorgontijo2017@gmail.com</i></b></a></li>
-  <li>Estou em busca de aprender cada vez mais, e no futuro trabalhar como desenvolvedor front-end</li>
 </ul><br>
 
 <div>
