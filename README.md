@@ -1,13 +1,13 @@
 <body>
-<h1>Olá</h1>
+<h1>Hey</h1>
 <div>
-  Me chamo Vítor Gontijo, tenho 19 anos e moro em Divinópolis-MG.
+  My name is Vítor Gontijo, welcome to my GitHub profile
 </div>
 
-<h2>Abaixo tem mais algumas informações adicionais</h2>
+<h2>A few extra info:</h2>
 <ul>
-  <li>Atualmente estou cursando o curso de informática para Internet no CEFET-MG em Divinópolis</li>
-  <li>Email:<a href = "mailto:vitorgontijo2017@gmail.com"> <b><i>vitorgontijo2017@gmail.com</i></b></a></li>
+  <li>I am currently enrolled in a ASS in Web Development and Computing!</li>
+  <li>My email:<a href = "mailto:vitorgontijo2017@gmail.com"> <b><i>vitorgontijo2017@gmail.com</i></b></a></li>
 </ul>
 <br>
 <div>
