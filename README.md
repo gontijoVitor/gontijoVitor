@@ -1,7 +1,7 @@
 <body>
 <h1>Hey</h1>
 <div>
-  My name is Vítor Gontijo, welcome to my GitHub profile
+  My name is Vítor Gontijo, welcome to my GitHub profile.
 </div>
 
 <h2>A few extra info:</h2>
