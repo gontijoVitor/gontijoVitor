@@ -24,5 +24,6 @@
   <img class="icon" aling = "center" alt = "VitoREACT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img class="icon" aling = "center" alt = "VitoNODE" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img class="icon" aling = "center" alt = "VitoPHP" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img class="icon" aling = "center" alt = "VitoPHP" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
 </div>
 </body>
