@@ -6,8 +6,8 @@
 
 <h2>A few extra info:</h2>
 <ul>
-  <li>I am currently enrolled in a ASS in Web Development and Computing!</li>
-  <li>My email:<a href = "mailto:vitorgontijo2017@gmail.com"> <b><i>vitorgontijo2017@gmail.com</i></b></a></li>
+  <li>My email:<a href = "mailto:vitorgontijo2017@gmail.com"> <b><i>vitorgontijo2017@gmail.com</i></b></a>;</li>
+  <li>Access my LinkedIn profile clicking <a href = "linkedin.com/in/gontijovitor"> <b><i>here</i></b></a>;</li>
 </ul>
 <br>
 <div>
