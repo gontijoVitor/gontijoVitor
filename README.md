@@ -19,14 +19,14 @@
   <img class="icon" aling = "center" alt = "VitoHTML" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img class="icon" aling = "center" alt = "VitoCSS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img class="icon" aling = "center" alt = "VitoJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img class="icon" aling = "center" alt = "VitoPHP" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img class="icon" aling = "center" alt = "VitoPYTHON" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img class="icon" aling = "center" alt = "VitoREACT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img class="icon" aling = "center" alt = "VitoMYSQL" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img class="icon" aling = "center" alt = "VitoNODE" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img class="icon" aling = "center" alt = "VitoGIT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img class="icon" aling = "center" alt = "VitoBOOTSTRAP" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img class="icon" aling = "center" alt = "VitoTAWILWIND" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img class="icon" aling = "center" alt = "VitoMYSQL" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img class="icon" aling = "center" alt = "VitoREACT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img class="icon" aling = "center" alt = "VitoNODE" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img class="icon" aling = "center" alt = "VitoPHP" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img class="icon" aling = "center" alt = "VitoUBUNTU" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
-  <img class="icon" aling = "center" alt = "VitoGIT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img class="icon" aling = "center" alt = "VitoPYTHON" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 </body>
