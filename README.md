@@ -27,5 +27,6 @@
   <img class="icon" aling = "center" alt = "VitoPHP" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img class="icon" aling = "center" alt = "VitoUBUNTU" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
   <img class="icon" aling = "center" alt = "VitoGIT" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img class="icon" aling = "center" alt = "VitoPYTHON" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 </body>
