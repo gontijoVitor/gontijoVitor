@@ -8,12 +8,12 @@
 
 <h2>A few extra info:</h2>
 <ul>
-  <li>My email:<a href = "mailto:vitorgontijo2017@gmail.com"> <b><i>vitorgontijo2017@gmail.com</i></b></a>;</li>
+  <li>My email: <a href = "mailto:vitorgontijo2017@gmail.com"><b><i>vitorgontijo2017@gmail.com</i></b></a>;</li>
+  <li>My Linkedin profile: <a href = "https://www.linkedin.com/in/gontijovitor" target="_blank"><b><i>GontijoVitor</i></b></a>.</li>
 </ul>
 <br>
 <div>
-  <img align = "center" height = "200px" align = "middle" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gontijoVitor&layout=donut&theme=dark"/>
-  <img align = "center" height = "200px" align = "middle" src = "https://github-readme-stats.vercel.app/api?username=gontijoVitor&show_icons=true&theme=dark"/>
+  <img align = "center" height = "200px" width- align = "middle" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gontijoVitor&layout=donut&theme=dark"/>
 </div>
 <br>
 <div>
