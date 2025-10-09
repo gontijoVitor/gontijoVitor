@@ -1,8 +1,10 @@
 <body>
 <h1>Hey</h1>
-<div>
-  My name is Vitor Gontijo, welcome to my GitHub profile.
-</div>
+<ul>
+  <li>Vítor here, 20 y/o. I hold an A.A.S. degree and I'm currently enrolled in a B.S. in Computer Science.</li>
+  <li>For now, I'm focusing on front-end development, but I plan to move into back-end development soon.</li>
+  <li>Welcome to my GitHub profile!</li> 
+</ul>
 
 <h2>A few extra info:</h2>
 <ul>
