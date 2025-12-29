@@ -14,10 +14,6 @@
 </ul>
 <br>
 <div>
-  <img align = "center" height = "200px" width- align = "middle" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gontijoVitor&layout=donut&theme=dark"/>
-</div>
-<br>
-<div>
   <img class="icon" aling = "center" alt = "HTML" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img class="icon" aling = "center" alt = "CSS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img class="icon" aling = "center" alt = "JS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
