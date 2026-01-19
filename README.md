@@ -13,18 +13,39 @@
   <li>My Linkedin profile: <a href = "https://www.linkedin.com/in/gontijovitor" target="_blank"><b><i>GontijoVitor</i></b></a>.</li>
 </ul>
 <br>
-<div>
+<h2>Languages and Technologies:</h2>
+<ul>
+  <img class="icon" aling = "center" alt = "ReactJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img class="icon" aling = "center" alt = "HTML" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img class="icon" aling = "center" alt = "CSS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img class="icon" aling = "center" alt = "JS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img class="icon" aling = "center" alt = "PHP" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img class="icon" aling = "center" alt = "Python" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img class="icon" aling = "center" alt = "ReactJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img class="icon" aling = "center" alt = "Cs" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img class="icon" aling = "center" alt = "MySQL" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
   <img class="icon" aling = "center" alt = "NodeJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img class="icon" aling = "center" alt = "Git" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img class="icon" aling = "center" alt = "Bootstrap" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img class="icon" aling = "center" alt = "Tailwind" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img class="icon" aling = "center" alt = "Ubuntu" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
-</div>
+</ul>
+
+<br>
+<h2>Stats:</h2>
+<p>
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=gontijovitor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontijovitor&theme=tokyonight&layout=compact&langs_count=6" 
+    />
+</p>
 </body>
