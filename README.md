@@ -4,15 +4,14 @@
   <li>Vítor here, 20 y/o. I hold an A.A.S. degree and I'm currently enrolled in a B.S. in Computer Science.</li>
   <li>For now, I'm focusing on front-end development, but I plan to move into back-end development soon.</li> 
 </ul>
-
   <b>Welcome to my GitHub profile!</b>
-
+  
 <h2>A few extra info:</h2>
 <ul>
   <li>My email: <a href = "mailto:vitorgontijo2017@gmail.com"><b><i>vitorgontijo2017@gmail.com</i></b></a>;</li>
   <li>My Linkedin profile: <a href = "https://www.linkedin.com/in/gontijovitor" target="_blank"><b><i>GontijoVitor</i></b></a>.</li>
 </ul>
-<br>
+  
 <h2>Languages and Technologies:</h2>
 <ul>
   <img class="icon" aling = "center" alt = "ReactJS" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
@@ -30,7 +29,6 @@
   <img class="icon" aling = "center" alt = "Ubuntu" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
 </ul>
 
-<br>
 <h2>Stats:</h2>
 <p>
   <img 
