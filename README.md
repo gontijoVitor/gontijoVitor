@@ -38,12 +38,5 @@
     style="padding: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontijovitor&theme=tokyonight&layout=compact&langs_count=8"
   />
-  <img
-    height=200
-    align="center"
-    height="200" 
-    style="padding: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=gontijovitor&show_icons=true&theme=tokyonight"
-  />
 </p>
 </body>
