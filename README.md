@@ -28,15 +28,4 @@
   <img class="icon" aling = "center" alt = "Tailwind" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img class="icon" aling = "center" alt = "Ubuntu" width = "50" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
 </ul>
-
-<h2>Stats:</h2>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontijovitor&theme=tokyonight&layout=compact&langs_count=8"
-  />
-</p>
 </body>
